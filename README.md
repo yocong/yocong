@@ -8,7 +8,7 @@
 
 <h3 align="center">:star: Introduction :star:</h3>
 <div align="center">
-  안녕하세요! 현재는 개발을 열심히 공부하고 있습니다. <br>
+  안녕하세요! 개발을 열심히 공부하고 있습니다. <br>
   프론트엔드와 백엔드에 모두 관심이 있는 신입개발자입니다!
 </div>
 
