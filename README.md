@@ -16,7 +16,7 @@
 
 <h3 align="center">:pushpin: Tech Stack :pushpin:</h3>
 <div align="center">
-  <!-- <img src="https://img.shields.io/badge/보여질이-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/보여질이름-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
@@ -27,14 +27,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/React-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-ff9999.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/git-007396.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 
