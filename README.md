@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Java-ff9999.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
 
 </div>
@@ -28,8 +32,8 @@
 
 <h3 align="center">:pencil2: Studying :pencil2:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/React-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Oracle-fff777.svg?style=for-the-badge&logo=Oracle&logoColor=white" />&nbsp
+<!--   <img src="https://img.shields.io/badge/React-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp -->
+  <img src="https://img.shields.io/badge/Spring-FF4154.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
 </div>
 
 <br>
@@ -48,6 +52,13 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=F9AB00" />&nbsp
+  
+  
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-2C2211.svg?style=for-the-badge&logo=Oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-007555.svg?style=for-the-badge&logo=MariaDB&logoColor=white" />&nbsp
   
 </div>
 
